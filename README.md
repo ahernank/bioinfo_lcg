@@ -1,3 +1,8 @@
-# bioinfo_lcg
+# Github para Prácticas de curso de Bioinformática
+Licenciatura en Ciencias Genómicas
 
-Test changes
+Bruno Contreras Moreira
+
+Alumnos:
+Anastasia Hernández Koutoucheva
+Alán Fernando Muñoz González
